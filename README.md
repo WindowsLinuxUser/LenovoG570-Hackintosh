@@ -1,5 +1,5 @@
 # LenovoG570-Hackintosh
-Run macOS on your Lenovo G570
+Run macOS High Sierra (other versions not tested) on your Lenovo G570
 
 This is for systems with no wireless card whitelist, using a supported intel card. Speaking of which, you will need the BIOS mod found in the NeoBlizzard-verbose g570 hackintosh repo.
 
